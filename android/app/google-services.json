@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "478717586065",
+    "firebase_url": "https://shatarko-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shatarko",
+    "storage_bucket": "shatarko.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478717586065:android:d7d413a2fc4674b8e3ed30",
+        "android_client_info": {
+          "package_name": "com.example.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478717586065-glpiamjg0e7gi2kjnlnhafi460e7e5ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJfIehCHQC2rZq3bsYEum___KhZ83kxYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478717586065-glpiamjg0e7gi2kjnlnhafi460e7e5ma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
